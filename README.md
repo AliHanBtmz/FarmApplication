@@ -1,4 +1,4 @@
-<h1 align="center">Hayvanat Bahçesi Projesi</h1>
+<h1 align="center">Çiftlik Projesi</h1>
 
 <p>500'e 500'lük bir alanda yaşayan 30 koyun (15 erkek,15 dişi), 10 inek (5 erkek,5 dişi), 10 tavuk,10 kurt (5 dişi,5 erkek) 10 horoz, 8 aslan (4 erkek, 4 dişi) ve 1 avcı bulunmaktadır.</p>
 
